@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Meet Lulu – A Masterpiece</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #fff7e6, #ffecd2);
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #ffb84d;
+      padding: 40px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+      color: #fff;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 15px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #ff9900;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .footer {
+      text-align: center;
+      font-size: 0.8em;
+      padding: 30px;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Lulu: The One and Only</h1>
+</header>
+
+<div class="container">
+  <h2>Who Is Lulu?</h2>
+  <p>Lulu isn’t just a person. She’s a **masterpiece**. Imagine someone who’s smart in all forms, pretty beyond reason, and so fun to be around that even boring people feel interesting. That’s Lulu.</p>
+
+  <h2>Signature Moves</h2>
+  <p>Lulu is known to **break into a full dance** when eating something delicious. It's not a maybe—it’s a guarantee. If there’s good food and music nearby, expect a one-woman show.</p>
+
+  <h2>Her Favorite Things</h2>
+  <ul>
+    <li>Me (obviously)</li>
+    <li>Her iPad games that she takes way too seriously</li>
+    <li>AY (a mysterious legend only she truly understands)</li>
+  </ul>
+
+  <h2>Fun Fact</h2>
+  <p>Lulu can spend **hours playing sorting games** on her iPad and **commenting on TikTok** like it's her full-time job—even if she has a mountain of other things to do. Priorities.</p>
+
+  <h2>If Lulu Were a Character...</h2>
+  <p>She would be **Joy from Inside Out**—bubbly, energetic, a little chaotic, and filled with uncontrollable laughter. But with better fashion.</p>
+
+  <h2>Things Lulu Would Never Do</h2>
+  <ul>
+    <li>Skydiving</li>
+    <li>Anything labeled "dangerous"</li>
+    <li>Voluntarily waking up early</li>
+  </ul>
+</div>
+
+<div class="footer">
+  Website created for Lulu – a true one-of-a-kind.
+</div>
+
+</body>
+</html>
